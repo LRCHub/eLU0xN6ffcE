@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "雨",
+  "base_artist": "神が残した夢を喰う。",
+  "createdAt": "2025-12-22T05:53:43.515792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "阳光 雨",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/01_阳光_雨_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/02_雨_Orange_Range.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワタシハココニイマス for 雨",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/03_ワタシハココニイマス_for_雨_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨",
+      "artist": "HAPPY TURN",
+      "has_synced": false,
+      "path": "select/04_雨_HAPPY_TURN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨、キミを連れて",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/05_雨、キミを連れて_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "阳光。雨",
+      "artist": "Fiona Fung",
+      "has_synced": false,
+      "path": "select/06_阳光。雨_Fiona_Fung.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雨",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/07_雨_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雨 - ロック・ヴァージョン",
+      "artist": "Moritaka Chisato",
+      "has_synced": false,
+      "path": "select/08_雨_-_ロック・ヴァージョン_Moritaka_Chisato.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雨",
+      "artist": "Ichiko Aoba",
+      "has_synced": false,
+      "path": "select/09_雨_Ichiko_Aoba.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ふたたびの、雨",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/10_ふたたびの、雨_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "陽光・雨",
+      "artist": "馮曦妤",
+      "has_synced": false,
+      "path": "select/11_陽光・雨_馮曦妤.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨",
+      "artist": "神が残した夢を喰う。",
+      "has_synced": false,
+      "path": "select/pl_01_雨_神が残した夢を喰う。.txt"
+    }
+  ]
+}
